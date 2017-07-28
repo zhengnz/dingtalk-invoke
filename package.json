@@ -1,0 +1,22 @@
+{
+  "name": "dingtalk-invoke",
+  "version": "0.1.1",
+  "description": "dingtalk api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dingtalk"
+  ],
+  "author": "'Norman' <'332535694@qq.com'>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "dingtalk-invoke": "^0.0.7",
+    "lodash": "^4.17.2",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "utility": "^1.11.0"
+  }
+}
